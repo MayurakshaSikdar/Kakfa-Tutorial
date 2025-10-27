@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/WIDE%20-%20White%20on%20Transparent.png" align="center" width="40%">
+    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" align="center" width="40%">
     <img src="https://d2mkz4zdclmlek.cloudfront.net/blog/wp-content/uploads/2023/05/postgresql_original_wordmark_logo_icon_146392.png" align="center" width="20%">
 </p>
 <p align="center">
