@@ -1,0 +1,6 @@
+{
+    "bootstrap.servers": "localhost:9092",
+    "group.id": "kafka-python-getting-started",
+    "auto.offset.reset": "earliest",
+    "acks": "all"
+}
